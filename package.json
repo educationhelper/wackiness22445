@@ -1,0 +1,14 @@
+{
+  "name": "wackiness22445",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "📚 家庭补习 📚 大马最出名的一对一补习",
+  "keywords": [
+    "📚 家庭补习 📚 大马最出名的一对一补习"
+  ],
+  "repository": "https://github.com/teducationhelper/wackiness22445",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
